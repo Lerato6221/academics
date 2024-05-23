@@ -12,7 +12,10 @@
 
 def mashonisa():
 
-
+    def user_login():
+        name = input("Please type your Name")
+        surname = input("Please insert your Surname")
+        age = int(input("Please insert your age")))
 
 if __name__=='__main__':
     mashonisa()
