@@ -1,0 +1,19 @@
+body {
+
+ 
+}
+
+table {
+
+    border:1px solid;
+    border-color: blueviolet;
+    
+}
+
+tr,td{
+
+    border:1px solid;
+    border-color:blueviolet;
+    color:red;
+}
+
